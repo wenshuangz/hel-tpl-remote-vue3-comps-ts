@@ -1,4 +1,4 @@
-# hel-tpl-remote-vue3-comps-ts
+# sy-hel-tpl-remote-vue3-comps-ts
 A simple remote vue3 comp template(typescript、dev with vite or webpack, build with webpack )
 
 ## desc
@@ -26,9 +26,9 @@ npm run publish
 ```bash
 npm i @vue/cli -g
 
-vue create hel-tpl-remote-vue3-comps-ts --packageManager=npm
+vue create sy-hel-tpl-remote-vue3-comps-ts --packageManager=npm
 
-cd hel-tpl-remote-vue3-comps-ts
+cd sy-hel-tpl-remote-vue3-comps-ts
 
 // https://github.com/IndexXuan/vue-cli-plugin-vite
 vue add vite
