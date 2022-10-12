@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-      <h3>hel-micro</h3>
+      <h3>sy-hel-micro</h3>
     <p>
       A module federation SDK which is unrelated to tool chain for module consumer.
       checkout the <a href="https://tnfe.github.io/hel/" target="_blank" rel="noopener">hel-micro documentation</a>.
