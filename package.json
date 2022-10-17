@@ -1,7 +1,7 @@
 {
   "name": "sy-hel-tpl-remote-vue3-comps-ts",
   "appGroupName": "sy-hel-tpl-remote-vue3-comps-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "hel_proxy/entry.js",
   "module": "hel_proxy_es/entry.js",
   "types": "src/entrance/libTypes.ts",
